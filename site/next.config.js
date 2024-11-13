@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Nivelles Technologies',
     description: 'The official store for Nivelles workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://NivellesSebastien.github.io/Kasm',
+    listUrl: 'https://nivellessebastien.github.io/Kasm',
     contactUrl: '',
   },
   reactStrictMode: true,
